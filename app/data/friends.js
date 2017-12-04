@@ -1,0 +1,68 @@
+//Application DATA 
+
+var friends = [
+{
+	"name":"Mary",
+	"photo":"http://www.bonniercorp.com/wp-content/uploads/2014/03/placeholder-people.jpg",
+	"scores":[
+	5,
+	1,
+	4,
+	4,
+	5,
+	1,
+	2,
+	5,
+	4,
+	1
+	]
+},
+{
+	"name":"Christopher",
+	"photo":"https://i.pinimg.com/originals/6e/30/f2/6e30f26956a63c42903ab0ad78ff2ced.jpg",
+	"scores":[
+	5,
+	1,
+	4,
+	4,
+	5,
+	1,
+	2,
+	5,
+	4,
+	1
+	]
+},
+{
+	"name":"Jake",
+	"photo":"http://www.theheadshotguy.co.uk/wp-content/uploads/2014/12/Screen-Shot-2014-12-02-at-11.14.42.png",
+	"scores":[
+	5,
+	1,
+	4,
+	4,
+	5,
+	1,
+	2,
+	5,
+	4,
+	1
+	]
+},
+{
+	"name":"Lori",
+	"photo":"https://dq1eylutsoz4u.cloudfront.net/2017/10/06151308/short-dating-profile-examples-600x460.jpg",
+	"scores":[
+	5,
+	1,
+	4,
+	4,
+	5,
+	1,
+	2,
+	5,
+	4,
+	1
+	]
+},
+module.exports = friends;
